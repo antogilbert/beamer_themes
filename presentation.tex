@@ -1,0 +1,40 @@
+\documentclass{beamer}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usetheme{imperial}
+
+\author{Imperial College Associate}
+\title{Imperial College Presentation}
+\institute{Imperial College Department}
+
+\begin{document}
+% THIS SETUP FOR THE TITLE PAGE PREVENTS THE LOGO FROM SHOWING
+% IN THE BOTTOM RIGHT CORNER
+{
+\setbeamertemplate{logo}{}
+\begin{frame}
+\titlepage
+\end{frame}
+}
+
+\begin{frame}{Boxes}
+\begin{block}{Normal Block}
+This is a normal block
+\end{block}
+\begin{alertblock}{Alert Block}
+This is an alert block
+\end{alertblock}
+\begin{exampleblock}{Example Block}
+This is an example block
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}{Bullet lists}
+  \begin{itemize}
+    \item Item
+    \item Item
+    \item Item
+  \end{itemize}
+\end{frame}
+
+\end{document}
