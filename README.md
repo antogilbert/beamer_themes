@@ -11,7 +11,7 @@ property of Imperial College London. As far as I understand
 the images are provided by Imperial College London for its
 staff and students, and for academic and non-profit use only.
 
-The files `icl' `and iclWhite' are the blue and white version
+The files `icl` and `iclWhite` are the blue and white version
 of the Imperial College London logo respectively. It is possible
 to download other Imperial College London logos on the web page:
 
